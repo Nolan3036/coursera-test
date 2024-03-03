@@ -1,3 +1,3 @@
-theme: jekyll-theme-Modernist
+theme: jekyll-theme-modernist
 # coursera-test
 coursera courses on html
